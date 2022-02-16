@@ -1,0 +1,15 @@
+@startuml
+class "Requirement"{
+
+}
+
+class "Functional requirement"{
+
+}
+
+"Requirement" <|-- "Functional requirement"
+
+hide members
+hide fields
+
+@enduml
